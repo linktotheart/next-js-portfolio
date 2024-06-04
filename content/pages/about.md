@@ -14,10 +14,9 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+      ## Hey I’m a developer. I’ve been born and raised in India, and that’s
+      also where I’m based. I’m currentl working at JourneyFront. When I’m not coding, writing or creating, I eat
+      cereals. 
     media:
       type: ImageBlock
       url: /images/about.jpg
@@ -124,7 +123,7 @@ sections:
         actions:
           - type: Link
             label: GitHub
-            url: 'https://github.com/'
+            url: 'https://github.com/linktotheart'
         styles:
           self:
             textAlign: left
@@ -132,7 +131,7 @@ sections:
         actions:
           - type: Link
             label: Twitter
-            url: 'https://twitter.com/'
+            url: 'https://twitter.com/ultraaaaviolent'
         styles:
           self:
             textAlign: left
@@ -140,7 +139,7 @@ sections:
         actions:
           - type: Link
             label: LinkedIn
-            url: 'https://www.linkedin.com/'
+            url: 'https://www.linkedin.com/pulkit-singh-302'
         styles:
           self:
             textAlign: left
@@ -148,15 +147,7 @@ sections:
         actions:
           - type: Link
             label: CodePen
-            url: 'https://codepen.io/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Discord
-            url: 'https://discord.com/'
+            url: 'https://codepen.io/pulkit69'
         styles:
           self:
             textAlign: left
@@ -164,7 +155,7 @@ sections:
         actions:
           - type: Link
             label: Instagram
-            url: 'https://www.instagram.com/'
+            url: 'https://www.instagram.com/ultraaaaaviolent'
         styles:
           self:
             textAlign: left
@@ -207,19 +198,19 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
+        label: Vue.js
       - type: Label
         label: React
       - type: Label
-        label: Microsoft Office
+        label: Docker
       - type: Label
-        label: Next.js
+        label: Django
       - type: Label
         label: Netlify
       - type: Label
-        label: Pancakes
+        label: Git & Bash
       - type: Label
-        label: C++
+        label: Unity 3D
       - type: Label
         label: Swift
   - type: DividerSection
@@ -239,7 +230,7 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
+      [pulkitsingh302@gmail.com](mailto:pulkitsingh302@gmail.com)
   - type: DividerSection
     styles:
       self:
@@ -383,11 +374,6 @@ sections:
           isRequired: true
           width: full
           type: TextareaFormControl
-        - name: updatesConsent
-          label: Sign me up to recieve my words
-          isRequired: false
-          width: full
-          type: CheckboxFormControl
       submitLabel: "Submit \U0001F680"
       styles:
         submitLabel:

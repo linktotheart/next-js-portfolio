@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
+      I’m a fullstack developer, visual director and a bunch of other
       impressive titles and buzz words.
     subtitle: >-
       This is my info—I’m sharing it all this with ya’ll to impress you with all
@@ -31,7 +31,7 @@ sections:
           - mr-0
         padding:
           - pt-36
-          - pb-48
+          - pb-38
           - pl-4
           - pr-4
         alignItems: center

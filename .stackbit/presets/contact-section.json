@@ -38,13 +38,6 @@
                             "placeholder": "Tell me about your project",
                             "isRequired": true,
                             "width": "full"
-                        },
-                        {
-                            "type": "CheckboxFormControl",
-                            "name": "updates",
-                            "label": "Sign me up to receive updates",
-                            "isRequired": "false",
-                            "width": "full"
                         }
                     ],
                     "submitLabel": "Send Message"
@@ -102,13 +95,6 @@
                             "hideLabel": true,
                             "placeholder": "Tell me about your project",
                             "isRequired": true,
-                            "width": "full"
-                        },
-                        {
-                            "type": "CheckboxFormControl",
-                            "name": "updates",
-                            "label": "Sign me up to receive updates",
-                            "isRequired": "false",
                             "width": "full"
                         }
                     ],

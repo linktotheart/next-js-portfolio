@@ -91,7 +91,7 @@
             "address": "Ghaziabad, Uttar Pradesh, India",
             "addressAltText": "My address"
         },
-        "copyrightText": "Powered by [Next JS](https://www.netlify.com/platform/create/)",
+        "copyrightText": "Powered by [Next JS](https://www.https://nextjs.org/)",
         "styles": {
             "self": {
                 "width": "narrow",
