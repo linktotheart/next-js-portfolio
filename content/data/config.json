@@ -1,0 +1,102 @@
+{
+    "type": "Config",
+    "favicon": "/images/favicon.svg",
+    "header": {
+        "type": "Header",
+        "headerVariant": "variant-b",
+        "isSticky": true,
+        "title": "Pulkit",
+        "isTitleVisible": true,
+        "primaryLinks": [
+            {
+                "type": "Link",
+                "label": "Projects",
+                "url": "/projects"
+            },
+            {
+                "type": "Link",
+                "label": "Blog",
+                "url": "/blog"
+            },
+            {
+                "type": "Link",
+                "label": "About",
+                "url": "/about"
+            }
+        ],
+        "socialLinks": [
+            {
+                "type": "Social",
+                "altText": "Twitter",
+                "label": "Twitter",
+                "url": "https://x.com/ultraaaaviolent",
+                "icon": "twitter"
+            },
+            {
+                "type": "Social",
+                "altText": "LinkedIn",
+                "label": "LinkedIn",
+                "url": "https://www.linkedin.com/in/pulkit-singh-302/",
+                "icon": "linkedin"
+            },
+            {
+                "type": "Social",
+                "altText": "GitHub",
+                "label": "GitHub",
+                "url": "https://github.com/linktotheart",
+                "icon": "github"
+            }
+        ],
+        "styles": {
+            "self": {
+                "width": "full"
+            }
+        }
+    },
+    "footer": {
+        "type": "Footer",
+        "primaryLinks": [
+            {
+                "type": "Link",
+                "label": "About",
+                "url": "/about",
+                "altText": "About Me"
+            },
+            {
+                "type": "Link",
+                "label": "Contact",
+                "url": "mailto:pulkitsingh302@gmail.com",
+                "altText": "Contact Me"
+            },
+            {
+                "type": "Link",
+                "label": "Blog",
+                "url": "/blog",
+                "altText": "Blog"
+            },
+            {
+                "type": "Link",
+                "label": "GitHub",
+                "url": "https://github.com/linktotheart",
+                "altText": "Github"
+            }
+        ],
+        "contacts": {
+            "type": "ContactBlock",
+            "title": "Contact Me",
+            "phoneNumber": "+91-7011587832",
+            "phoneAltText": "My phone number",
+            "email": "pulkitsingh302@gmail.com",
+            "emailAltText": "Email Me",
+            "address": "Ghaziabad, Uttar Pradesh, India",
+            "addressAltText": "My address"
+        },
+        "copyrightText": "Powered by [Next JS](https://www.netlify.com/platform/create/)",
+        "styles": {
+            "self": {
+                "width": "narrow",
+                "padding": ["pt-16", "pb-16", "pr-4", "pl-4"]
+            }
+        }
+    }
+}
